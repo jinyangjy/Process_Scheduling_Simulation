@@ -1,4 +1,4 @@
-# Process_Scheduling_Simulation
+# Process Scheduling Simulation
 
 Testing and comparing different scheduling algorithms to be used in different scenarios. It helps in choosing an appropriate algorithm both for an OS or
 large scale system. It aids in the selection of an appropriate algorithm for an operating system or large-scale systems. On such systems, user/process 
