@@ -1,9 +1,3 @@
-/*
-Name: Jin Yang Chong
-Student ID: 32893043
-Start Date: 1st October
-Last Edit: 9th October
- */
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -187,8 +181,6 @@ int main(int argc, char* argv[]){
 	nop = number_of_processes;
 	
 	/* 
-	This's where the fun begins, let's go round robinhood algorithm, the inspiration for this algorithm was taken from https://www.javatpoint.com/round-robin-program-in-c
-	
 	In this loop we'll keep looping till the number of processes left within the "processes.txt" is 0. 
 	When it has turn to 0, it goes to show that it has completed simulating all tasks. 
 	*/
