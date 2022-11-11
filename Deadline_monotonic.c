@@ -1,9 +1,3 @@
-/*
-Name: Jin Yang Chong
-Student ID: 32893043
-Start Date: 1st October
-Last Edit: 9th October
- */
 
 #include <stdio.h>
 #include <stdlib.h>
