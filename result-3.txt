@@ -2,3 +2,5 @@ P1 0 3 1
 P2 2 8 0
 P3 7 11 0
 P4 3 5 0
+
+Needs a bigger sample file for deadline monotonic scheduling algorithm to be precise
